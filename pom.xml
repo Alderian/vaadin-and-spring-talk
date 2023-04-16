@@ -99,7 +99,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <vaadin.version>7.3.2</vaadin.version>
+        <vaadin.version>7.7.24</vaadin.version>
         <vaadin.plugin.version>${vaadin.version}</vaadin.plugin.version>
         <geotools.version>10.2</geotools.version>
         <start-class>places.Application</start-class>
